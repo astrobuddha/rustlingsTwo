@@ -1,1 +1,9 @@
 /target
+.vs/ProjectSettings.json
+.vs/slnx.sqlite
+.vs/VSWorkspaceState.json
+.vs/rustlings/FileContentIndex/44d78cda-8c2d-46fe-b554-1e51b46d00f2.vsidx
+.vs/rustlings/FileContentIndex/read.lock
+.vs/rustlings/v17/.wsuo
+.vs/rustlings/v17/TestStore/0/000.testlog
+.vs/rustlings/v17/TestStore/0/testlog.manifest
