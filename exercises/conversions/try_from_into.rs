@@ -38,9 +38,21 @@ enum IntoColorError {
 impl TryFrom<(i16, i16, i16)> for Color {
     type Error = IntoColorError;
     fn try_from(tuple: (i16, i16, i16)) -> Result<Self, Self::Error> {
-        if tuple.0 < 0 || tuple.1 < 0 || tuple.2 < 0 {
-            return Err(IntoColorError::IntConversion);
-        }
+
+        // todo the below works, but try to iterate through the tuple and map to values with err.
+        // if tuple.0 < 0 || tuple.1 < 0 || tuple.2 < 0 {
+        //     return Err(IntoColorError::IntConversion);
+        // }
+
+        // if tuple.0 > u8::MAX.into() || tuple.1 > u8::MAX.into() || tuple.2 > u8::MAX.into() {
+        //     return Err(IntoColorError::IntConversion);
+        // }
+
+        let toRed: u8;
+        let toGreen: u8;
+        let toBlue: u8;
+
+
 
         Ok(Self {
             red: u8::try_from(tuple.0).unwrap(),
