@@ -7,3 +7,12 @@
 .vs/rustlings/v17/.wsuo
 .vs/rustlings/v17/TestStore/0/000.testlog
 .vs/rustlings/v17/TestStore/0/testlog.manifest
+exercises/clippy/target/.rustc_info.json
+exercises/clippy/target/debug/incremental/clippy3-2e1c2ccpveqya/s-ghdtp4mlyg-7fuzcu.lock
+exercises/clippy/target/debug/incremental/clippy3-2e1c2ccpveqya/s-ghdxcuq98e-13cmrfa.lock
+exercises/clippy/target/debug/incremental/clippy3-2e1c2ccpveqya/s-ghdtp4mlyg-7fuzcu-zw7jz4w13c97/dep-graph.bin
+exercises/clippy/target/debug/incremental/clippy3-2e1c2ccpveqya/s-ghdtp4mlyg-7fuzcu-zw7jz4w13c97/query-cache.bin
+exercises/clippy/target/debug/incremental/clippy3-2e1c2ccpveqya/s-ghdtp4mlyg-7fuzcu-zw7jz4w13c97/work-products.bin
+exercises/clippy/target/debug/incremental/clippy3-2e1c2ccpveqya/s-ghdxcuq98e-13cmrfa-zw7jz4w13c97/dep-graph.bin
+exercises/clippy/target/debug/incremental/clippy3-2e1c2ccpveqya/s-ghdxcuq98e-13cmrfa-zw7jz4w13c97/query-cache.bin
+exercises/clippy/target/debug/incremental/clippy3-2e1c2ccpveqya/s-ghdxcuq98e-13cmrfa-zw7jz4w13c97/work-products.bin
